@@ -1,0 +1,9 @@
+,,,,,,,defdf,,dfdf,,,
+,,,dfdf,,,,,,,,,
+order_id,customer_name,city,product,category,quantity,price_per_unit,discount_percent,order_date,delivery_date,payment_mode,order_status,rating
+13,Shubham,Jaipur,Laptop,Electronics,3,566,5,05-01-2025,06-01-2025,Credit Card,Delivered,5
+14,Vikrant,Bangalore,Headphones,Electronics,444,90011,12,10-01-2025,10-01-2025,UPI,Delivered,4
+1,Shubham,Hyderabad,Laptop,Electronics,885,179456,19,06-01-2025,14-01-2025,Credit Card,Cancelled,4
+2,Vikrant,Mumbai,Headphones,Electronics,1326,268901,26,10-01-2025,18-01-2025,UPI,Cancelled,6
+3,Shubham,New York,Laptop,Electronics,1767,358346,33,14-01-2025,22-01-2025,Credit Card,Delivered,7
+4,Vikrant,Jhansi,Headphones,Electronics,2208,447791,40,18-01-2025,26-01-2025,UPI,Delivered,9
